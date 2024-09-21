@@ -11,7 +11,7 @@ Create a C program that sorts integers using two stacks (a and b) and a limited 
 Key Components
 Stacks:
 
-Stack a: Contains a list of unique integers (initially populated).\n
+Stack a: Contains a list of unique integers (initially populated).  
 Stack b: Starts empty.
 Allowed Operations:
 
