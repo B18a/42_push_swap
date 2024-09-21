@@ -16,14 +16,14 @@ Stack b: Starts empty.
 Allowed Operations:
 
 Swap:  
->sa (swap top two in a)  
->sb (swap top two in b)   
->ss (both)  
+  sa (swap top two in a)  
+  sb (swap top two in b)   
+  ss (both)  
 Push:  
->pa (push from b to a)  
->pb (push from a to b)  
+  pa (push from b to a)  
+  pb (push from a to b)  
 Rotate:  
->ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).  
+  ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).  
 Output Requirements:
 
 Print the minimal sequence of operations to sort stack a.
