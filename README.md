@@ -31,8 +31,5 @@ Output Requirements:
 Print the minimal sequence of operations to sort stack a.
 Instructions should be separated by newlines.
 Handle errors gracefully, printing "Error" if invalid inputs are provided.
-Benchmarking
-Sort 100 integers in fewer than 700 operations.
-Sort 500 integers in fewer than 5500 operations.
 
 *Summary generated with chatgpt
