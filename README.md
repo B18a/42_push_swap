@@ -15,16 +15,16 @@ Stack a: Contains a list of unique integers (initially populated).\n
 Stack b: Starts empty.
 Allowed Operations:
 
-Swap:  
+Swap:
   - sa (swap top two in a)  
   - sb (swap top two in b)   
   - ss (both)
     
-Push:  
+Push:
   - pa (push from b to a)  
   - pb (push from a to b)
 
-Rotate:  
+Rotate:
   - ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).  
 Output Requirements:
 
