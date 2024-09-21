@@ -18,10 +18,12 @@ Allowed Operations:
 Swap:  
   - sa (swap top two in a)  
   - sb (swap top two in b)   
-  - ss (both)  
+  - ss (both)
+    
 Push:  
   - pa (push from b to a)  
-  - pb (push from a to b)  
+  - pb (push from a to b)
+
 Rotate:  
   - ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).  
 Output Requirements:
