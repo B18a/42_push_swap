@@ -6,7 +6,7 @@
   Project - push_swap
 </h1>
 
-Objective: Create a C program that sorts integers using two stacks (a and b) and a limited set of operations, optimizing for the least number of actions.
+Create a C program that sorts integers using two stacks (a and b) and a limited set of operations, optimizing for the least number of actions.
 
 Key Components
 Stacks:
