@@ -11,13 +11,19 @@ Create a C program that sorts integers using two stacks (a and b) and a limited 
 Key Components
 Stacks:
 
-Stack a: Contains a list of unique integers (initially populated).  
+Stack a: Contains a list of unique integers (initially populated).\n
 Stack b: Starts empty.
 Allowed Operations:
 
-Swap: sa (swap top two in a), sb (swap top two in b), ss (both).
-Push: pa (push from b to a), pb (push from a to b).
-Rotate: ra, rb, rr (shift up), and their reverse counterparts (rra, rrb, rrr).
+Swap:  
+  sa (swap top two in a)  
+  sb (swap top two in b)   
+  ss (both)  
+Push:  
+  pa (push from b to a)  
+  pb (push from a to b)  
+Rotate:  
+  ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).  
 Output Requirements:
 
 Print the minimal sequence of operations to sort stack a.
