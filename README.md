@@ -25,7 +25,7 @@ Allowed Operations:
 - Rotate:
   - ra, rb, rr (shift up) and their reverse counterparts (rra, rrb, rrr).
   
-Output Requirements:
+Output Requirements:  
 Print the minimal sequence of operations to sort stack a.
 Instructions should be separated by newlines.
 Handle errors gracefully, printing "Error" if invalid inputs are provided.
