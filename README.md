@@ -6,6 +6,8 @@
   Project - push_swap
 </h1>
 
+https://github.com/B18a/42_push_swap/blob/master/Demo.mov
+
 Create a C program that sorts integers using two stacks (a and b) and a limited set of operations, optimizing for the least number of actions.
 
 Key Components
